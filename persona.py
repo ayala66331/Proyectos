@@ -1,0 +1,6 @@
+class persona
+    pass
+
+
+
+
